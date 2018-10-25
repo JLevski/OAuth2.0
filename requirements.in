@@ -1,0 +1,6 @@
+# requirements.in
+Flask
+sqlalchemy
+requests
+oauth2client
+httplib2
